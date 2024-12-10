@@ -32,3 +32,5 @@ Vincoli e Dettagli Tecnici
 Il progetto deve essere sviluppato in Java e successivamente portato su Spring Boot.
 Lo strato di presentazione può essere sviluppato con strumenti a scelta dello studente ed eventualmente può limitarsi alla linea di comando e/o API REST.
 Si raccomanda di utilizzare almeno due design pattern (diverso dal Singleton).
+
+bbbbbbb
